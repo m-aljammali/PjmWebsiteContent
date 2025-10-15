@@ -49,4 +49,4 @@ jobs:
           destination-repository-name: websitePJM
           user-email: mohammad.aljammali@gmail.com
           # It defaults to `main`
-          target-branch: "dev"
+          target-branch: "main"
