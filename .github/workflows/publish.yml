@@ -44,7 +44,7 @@ jobs:
         with:
           # GitHub Action output files
           source-directory: data/
-          target-directory: data/
+          target-directory: /client/src/data
           destination-github-username: m-aljammali
           destination-repository-name: websitePJM
           user-email: mohammad.aljammali@gmail.com
