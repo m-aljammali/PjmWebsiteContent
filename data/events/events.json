@@ -1,0 +1,58 @@
+[
+	{
+		"id": "cf2fa651-e80d-42eb-a343-6bd8b503ddab",
+		"title": "Nakba Remembrance Day 2024",
+		"description": "Commemorating the Nakba with speakers, stories, and a solidarity march.",
+		"date": "2024-05-15T00:00:00.000Z",
+		"location": "Grand Hotel Ballroom",
+		"url": "/assets/generated_images/Nonprofit_community_event_with_engagement_b0fcef9e.png"
+	},
+	{
+		"id": "de54bd04-af6b-44ae-b2e2-8ec036f5bd7c",
+		"title": "Palestinian Food Festival",
+		"description": "A celebration of Palestinian cuisine and culture with traditional dishes and cultural performances.",
+		"date": "2024-07-15T00:00:00.000Z",
+		"location": "Riverside Park",
+		"url": "/assets/generated_images/Nonprofit_community_event_with_engagement_b0fcef9e.png"
+	},
+	{
+		"id": "f8fdc30d-9417-4a7c-b771-e72c76846142",
+		"title": "Run for Palestine 5K",
+		"description": "Run or walk in solidarity! All ages welcome. Proceeds support Palestinian families.",
+		"date": "2025-10-10T04:05:06.000Z",
+		"location": "City Park",
+		"url": "/assets/generated_images/Nonprofit_community_event_with_engagement_b0fcef9e.png"
+	},
+	{
+		"id": "7dc82338-747e-4378-a7f9-08dc69ec8917",
+		"title": "Palestine Awareness Day",
+		"description": "Join us in raising awareness about Palestinian history, culture, and current humanitarian needs.",
+		"date": "2025-10-20T00:00:00.000Z",
+		"location": "Community Center, Main Street",
+		"url": "/assets/generated_images/Nonprofit_community_event_with_engagement_b0fcef9e.png"
+	},
+	{
+		"id": "34c65ecf-a7bc-48b3-a3b0-14e498da7e0c",
+		"title": "Palestinian History Workshop",
+		"description": "Educational workshop on Palestinian history, the Nakba, and ongoing humanitarian crisis.",
+		"date": "2025-10-28T00:00:00.000Z",
+		"location": "Palestinian Hope Office",
+		"url": "/assets/generated_images/Nonprofit_community_event_with_engagement_b0fcef9e.png"
+	},
+	{
+		"id": "79b10929-3297-4449-b2af-a85a4c685063",
+		"title": "Palestine Solidarity Gala",
+		"description": "An evening of Palestinian culture, solidarity, and fundraising for humanitarian relief efforts.",
+		"date": "2025-11-15T00:00:00.000Z",
+		"location": "Grand Ballroom, Downtown Convention Center",
+		"url": "https://example.com/palestinian-cultural-night"
+	},
+	{
+		"id": "34c65ecf-a7bc-48b3-a3b0-14e498da7e0c",
+		"title": "Palestinian Cultural Night",
+		"description": "Celebrate Palestinian culture with traditional music, dabke dancing, and authentic cuisine.",
+		"date": "2025-12-15T00:00:00.000Z",
+		"location": "Symphony Hall",
+		"url": "https://example.com/palestinian-cultural-night"
+	}
+]

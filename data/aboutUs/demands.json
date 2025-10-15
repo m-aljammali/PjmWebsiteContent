@@ -1,0 +1,49 @@
+{
+	"ImmediateDemands": {
+		"title": "Immediate Demands",
+		"description": "For the Australian government to comply with its International Law obligations by:",
+
+		"demands": [
+			{
+				"link": "https://bdsmovement.net/",
+				"description": "Stopping the two-way arms trade with Israel."
+			},
+			{
+				"link": "https://bdsmovement.net/",
+				"description": "Sanctioning the Israeli regime."
+			},
+			{
+				"link": "https://bdsmovement.net/",
+				"description": "Imposing a ban on Israeli soldiers travelling to Australia."
+			},
+			{
+				"link": "https://bdsmovement.net/",
+				"description": "Investigating Australians who joined the IOF over the past 2 years."
+			},
+			{
+				"link": "https://bdsmovement.net/",
+				"description": "Exerting diplomatic influence to: Stop the genocide and End the siege on Gaza."
+			}
+		]
+	},
+
+	"LongTermDemands": {
+		"title": "Long Term Demands",
+		"description": "For the Australian government to comply with its International Law obligations by:",
+
+		"demands": [
+			{
+				"link": "https://bdsmovement.net/",
+				"description": "Ending Israeli occupation and colonisation of all Arab lands and dismantling the apartheid Wall"
+			},
+			{
+				"link": "https://bdsmovement.net/",
+				"description": "Recognizing the fundamental rights of the Arab-Palestinian citizens of Israel to full equality as citizens"
+			},
+			{
+				"link": "https://bdsmovement.net/",
+				"description": "Respecting, protecting and promoting the rights of Palestinian refugees to return to their homes and properties as stipulated in UN Resolution 194"
+			}
+		]
+	}
+}
