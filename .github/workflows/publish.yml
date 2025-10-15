@@ -44,9 +44,9 @@ jobs:
         with:
           # GitHub Action output files
           source-directory: data/
-          distination-directory: data/
+          target-directory: data/
           destination-github-username: m-aljammali
           destination-repository-name: websitePJM
           user-email: mohammad.aljammali@gmail.com
           # It defaults to `main`
-          target-branch: "main"
+          target-branch: "dev"
